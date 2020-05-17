@@ -98,15 +98,39 @@
         <description></description>
         <pubDate>Sun, 17 May 2020 11:00:00</pubDate>
         <guid isPermaLink="false">ANPD11</guid>
-        <enclosure length="10606550" url="http://traffic.libsyn.com/anpdeducation/Role_Development.mp3" type="audio/mpeg" ></enclosure>
+        <enclosure length="10606550" url="http://traffic.libsyn.com/anpdeducation/Role_Development.mp3" type="audio/mpeg"></enclosure>
     </item>
     <item>
         <title>Technology</title>
         <description></description>
         <pubDate>Sun, 17 May 2020 12:00:00</pubDate>
         <guid isPermaLink="false">ANPD12</guid>
-        <enclosure length="18518831" url="http://hwcdn.libsyn.com/p/1/a/f/1af7999429050c36/Technology.mp3?c_id=63998699&amp;cs_id=63998699&amp;expiration=1589693008&amp;hwt=51577d39aad0a663e9b21236c026d13b" type="audio/mpeg" ></enclosure>
+        <enclosure length="18518831" url="http://traffic.libsyn.com/anpdeducation/Technology.mp3" type="audio/mpeg"></enclosure>
     </item>
+    <item>
+        <title>NPD Forecast: Experience-Complexity Gap</title>
+        <description>Join Jenn Bodine, DNP, RN, NPD-BC, CEN and Jillian Russell, MSN, RN, NPD-BC, your personal environmental scanning forecasters in this NEW podcast series, NPD Forecast. This series analyzes information gathered through environmental scanning and discusses NPD implications that you can apply to your daily practice.</description>
+        <pubDate>Sun, 17 May 2020 13:00:00</pubDate>
+        <guid isPermaLink="false">ANPDF01</guid>
+        <enclosure length="41778646" url="http://traffic.libsyn.com/anpdeducation/Experience_Complexity_Gap.mp3" type="audio/mpeg"></enclosure>
+    </item>
+    <item>
+        <title>Webinar: Preparing for Educational Emergencies</title>
+        <description>Select webinar audio recordings are available on-demand! If you are interested in watching the webinar recordings, please visit the Online Store.</description>
+        <pubDate>Sun, 17 May 2020 14:00:00</pubDate>
+        <guid isPermaLink="false">ANPDWEB01</guid>
+        <enclosure length="79931660" url="http://traffic.libsyn.com/anpdeducation/Preparing_for_Educational_Emergencies_Podcast.m4a" type="audio/m4a"></enclosure>
+    </item>
+    <item>
+        <title>Webinar: Optimizing Nursing Staff During a Pandemic</title>
+        <description>Select webinar audio recordings are available on-demand! If you are interested in watching the webinar recordings, please visit the Online Store.</description>
+        <pubDate>Sun, 17 May 2020 15:00:00</pubDate>
+        <guid isPermaLink="false">ANPDWEB02</guid>
+        <enclosure length="76649615" url="http://traffic.libsyn.com/anpdeducation/Optimizing_Nursing_Staff_During_a_Pandemic.m4a" type="audio/m4a"></enclosure>
+    </item>
+    
+    
+    
 
 </channel>
 </rss>
